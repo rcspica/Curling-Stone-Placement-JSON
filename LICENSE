@@ -1,0 +1,28 @@
+Creative Commons Attribution-NoDerivatives 4.0 International
+(CC BY-ND 4.0)
+
+The specifications and documentation in this repository are licensed under
+the Creative Commons Attribution-NoDerivatives 4.0 International License.
+
+Attribution should be given to RC spica Factory.
+
+Official license page:
+https://creativecommons.org/licenses/by-nd/4.0/
+
+Official legal code (full terms):
+https://creativecommons.org/licenses/by-nd/4.0/legalcode.en
+
+This file is a license notice referring to the official, unmodified
+CC BY-ND 4.0 license. It does not reproduce or replace the legal code.
+
+Scope clarification:
+This license applies to the specifications and documentation. It does not
+restrict implementation of the specification, including applications,
+Readers, Writers, and tools, or the creation, use, modification, editing,
+conversion, storage, exchange, or distribution of conforming JSON data.
+The NoDerivatives condition applies to the documentation, not to such
+implementations or JSON data.
+
+The documentation may be shared and redistributed in unadapted form under
+the license terms. The license does not grant permission to share or
+redistribute adapted versions of the documentation.
